@@ -1,0 +1,33 @@
+
+		body
+		{
+			font-family: century gothic;
+			background-image: url(Homepage/rock.jpg);
+		}
+		ul 
+		{
+			list-style-type: none;
+			margin-left: auto;
+			margin-right: auto;
+			padding: 200px, 200px;
+			overflow: hidden;
+			background-color: lightgray;
+			width: 75%;
+			height: 80px;
+		}
+		li 
+		{
+			float: left;
+		}
+		li a 
+		{
+			display: block;
+			color: brown;
+			text-align: center;
+			padding: 25px;
+			text-decoration: none;
+		}
+		li a:hover
+		{
+			background-color: white;
+		}
